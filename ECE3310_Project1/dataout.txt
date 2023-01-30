@@ -1,0 +1,24 @@
+
+ The sum is 775
+
+ The average is 155
+
+ The sum is 394
+
+ The average is 78.8
+
+ The sum is 394
+
+ The average is 78.8
+
+ The sum is 775
+
+ The average is 77.5
+
+ The sum is 775
+
+ The average is 77.5
+
+ The sum is 1588
+
+ The average is 79.4
